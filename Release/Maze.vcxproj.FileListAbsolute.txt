@@ -1,0 +1,8 @@
+C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\Release\画像\ゴール2.jpg
+C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\Release\画像\ブロック03.png
+C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\Release\画像\プレイヤー画像2.png
+C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\Release\音声\BGM2.mp3
+C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\Release\音声\btn01.mp3
+C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\Release\map_data.csv
+C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\Release\ranking.dat
+C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\Release\Maze.exe

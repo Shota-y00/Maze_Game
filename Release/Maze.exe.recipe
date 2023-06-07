@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\Release\Maze.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\画像\ゴール2.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\画像\ブロック03.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\画像\プレイヤー画像2.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\音声\BGM2.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\音声\btn01.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\map_data.csv</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\shota.yamagishi\Documents\プログラミング　置き場\Maze\ranking.dat</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
